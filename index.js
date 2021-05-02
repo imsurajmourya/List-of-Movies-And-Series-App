@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import Card from "./Cards"
 import "./index.css";
 import Datam from "./Datam";
-
+// Created by Suraj Mourya
 console.log(Datam[0]);
 ReactDOM.render(
    <> 
